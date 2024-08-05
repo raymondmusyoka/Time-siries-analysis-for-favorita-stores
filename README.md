@@ -1,3 +1,8 @@
+
+
+![time series](https://github.com/user-attachments/assets/dd1b0819-edba-4f8f-a83e-60776060bb38)
+
+
 # Time-siries-analysis-for-favorita-stores
 Welcome to the Corporation Favorita Store Sales Forecasting project! Our goal is to predict store sales for Corporation Favorita, a leading grocery retailer in Ecuador. By using advanced time series forecasting and analytics, we aim to create a model that accurately forecasts unit sales across various items in different Favorita stores.
 
