@@ -1,6 +1,6 @@
 
 
-![Uploading 7807104_1578230927_time_analysis_tittle-banner (1).jpg…]()
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTCtOPp-yZ_KY7t7wbCrNIAgsouUv8KwrV0KPYHQRAxrfcE9s7suYYKTF0Q&s
 
 
 
